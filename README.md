@@ -1,7 +1,8 @@
+**Dio-Trilha-Java-Básico**
+<hr>
 
 
-
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  Dio-Trilha-Java-Básico.
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  
 
 
 **Linguagem Java:**
